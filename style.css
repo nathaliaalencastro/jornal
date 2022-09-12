@@ -4,10 +4,10 @@ header{
 }
 main{
     background-color: blueviolet;
-    width: 50%;
-    margin-top: 30px;
-    height: 300px;
-    margin-left: 10%;
+    width: 55%;
+    margin-top: 40px;
+    height: 700px;
+    margin-left: 5%;
 }
 footer{
     background-color: rgb(72, 1, 112);
@@ -15,17 +15,64 @@ footer{
     height: 50px;
 
 }
+.maislidos1{
+    font-family: Didot, serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+#divBusca{
+    background-color:#E0EEEE;
+    border:none;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+    float: right;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+  }
+  
+  #btnBusca{
+    border:none;
+    float:left;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:104px;
+    font-weight:bold;
+    background:#5F9EA0;
+  }
+.recentes1{
+    font-family: Didot, serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
 aside{
     background-color: rgb(228, 110, 241);
     display: block;
     float: right;
-    width: 30%;
-    margin-top: 30px;
+    width: 25%;
+    margin-top: 40px;
     margin-right: 5%;
-    height: 300px;
+    height: 700px;
+  
 }
 #titulo{
     text-align: center;
+    color: white;
+    padding-top: 30px;
+font-size: 60px;
+    font-family: Impact, fantasy;
 }
 .container {
     display: inline-block;
